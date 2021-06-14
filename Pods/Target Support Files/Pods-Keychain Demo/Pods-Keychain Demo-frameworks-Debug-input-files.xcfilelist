@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Keychain Demo/Pods-Keychain Demo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/PersistenceKit/PersistenceKit.framework
+${BUILT_PRODUCTS_DIR}/SwiftKeychainWrapper/SwiftKeychainWrapper.framework

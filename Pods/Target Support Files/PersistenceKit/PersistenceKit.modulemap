@@ -1,0 +1,6 @@
+framework module PersistenceKit {
+  umbrella header "PersistenceKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
